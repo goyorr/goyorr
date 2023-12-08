@@ -1,9 +1,5 @@
-[![zel-kach's 42 stats](https://badge.mediaplus.ma/binary/zel-kach)](https://github.com/oakoudad/badge42)
-
 <h1 align="center">Hi 👋, I'm Zakaria</h1>
 <h3 align="center">A student at 1337 Khouribga (42 network)</h3>
-
-- 📫 How to reach me **zakariago99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
